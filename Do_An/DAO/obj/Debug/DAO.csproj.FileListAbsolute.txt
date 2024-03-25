@@ -1,0 +1,232 @@
+E:\Phát triển ứng dụng thông minh\Do_An\DAO\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An\DAO\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\Do_An\DAO\obj\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An\DAO\obj\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\obj\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\obj\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\obj\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\Do_An_PTUDTM\Do_An\DAO\obj\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\Do_An_UDTM\Do_An\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DAO.pdb
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\obj\Debug\DAO.dll
+E:\Phát triển ứng dụng thông minh\DA_PTPMUDTM_NHOM_08\SOURCE\Do_An\DAO\obj\Debug\DAO.pdb
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DAO.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DAO.pdb
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\winform_quanlynhathuoc\Do_An\DAO\obj\Debug\DAO.dll
+E:\winform_quanlynhathuoc\Do_An\DAO\obj\Debug\DAO.pdb
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DAO.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DAO.pdb
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\winform_quanlycuahangsach\Do_An\DAO\obj\Debug\DAO.dll
+E:\winform_quanlycuahangsach\Do_An\DAO\obj\Debug\DAO.pdb
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DAO.dll.config
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DAO.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DAO.pdb
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.dll
+E:\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.pdb
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DAO.dll.config
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DAO.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DAO.pdb
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\obj\Debug\DAO.pdb
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\EntityFramework.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\EntityFramework.xml
+C:\Users\LaptopBT\Desktop\.NET\Cuối kì\winform_quanlynhansu\winform_quanlynhansu\Do_An\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\DAO.dll.config
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\DAO.dll
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\DAO.pdb
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\EntityFramework.dll
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\EntityFramework.xml
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\obj\Debug\DAO.dll
+D:\Ứng Dụng\.NET\Nhóm 1 (Đ Huy Toàn, N Ngọc Hải, N Thị T.Phương)\Do_An\Do_An\DAO\obj\Debug\DAO.pdb

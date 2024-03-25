@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ManagementHRM" Class="ManagementHRMDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ManagementHRM;Integrated Security=True" SettingsObjectName="DAO.Properties.Settings" SettingsPropertyName="ManagementHRMConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Account" Member="Accounts">
+    <Type Name="Account">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="roleId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Role_Account" Member="Role" ThisKey="roleId" OtherKey="id" Type="Role" IsForeignKey="true" />
+      <Association Name="Staff_Account" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Timekeeping" Member="Timekeepings">
+    <Type Name="Timekeeping">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="createDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="departmentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Department_Timekeeping" Member="Department" ThisKey="departmentId" OtherKey="id" Type="Department" IsForeignKey="true" />
+      <Association Name="Staff_Timekeeping" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Contract" Member="Contracts">
+    <Type Name="Contract">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="basicSalary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="allowance" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Contract_Staff" Member="Staffs" ThisKey="id" OtherKey="contractId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Department" Member="Departments">
+    <Type Name="Department">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Department_Timekeeping" Member="Timekeepings" ThisKey="id" OtherKey="departmentId" Type="Timekeeping" />
+      <Association Name="Department_Salary" Member="Salaries" ThisKey="id" OtherKey="departmentId" Type="Salary" />
+      <Association Name="Department_Staff" Member="Staffs" ThisKey="id" OtherKey="departmentId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EnglishLevel" Member="EnglishLevels">
+    <Type Name="EnglishLevel">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="EnglishLevel_Staff" Member="Staffs" ThisKey="id" OtherKey="englishLevelId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Insurance" Member="Insurances">
+    <Type Name="Insurance">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="startDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="endDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Staff_Insurance" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ITLevel" Member="ITLevels">
+    <Type Name="ITLevel">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="ITLevel_Staff" Member="Staffs" ThisKey="id" OtherKey="itLevelId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Level]" Member="Levels">
+    <Type Name="Level">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Level_Staff" Member="Staffs" ThisKey="id" OtherKey="levelId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Position" Member="Positions">
+    <Type Name="Position">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Position_Staff" Member="Staffs" ThisKey="id" OtherKey="positionId" Type="Staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Punish" Member="Punishes">
+    <Type Name="Punish">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="mission" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="createDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="regulationPunishId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="RegulationPunish_Punish" Member="RegulationPunish" ThisKey="regulationPunishId" OtherKey="id" Type="RegulationPunish" IsForeignKey="true" />
+      <Association Name="Staff_Punish" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RegulationPunish" Member="RegulationPunishes">
+    <Type Name="RegulationPunish">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="RegulationPunish_Punish" Member="Punishes" ThisKey="id" OtherKey="regulationPunishId" Type="Punish" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RegulationReward" Member="RegulationRewards">
+    <Type Name="RegulationReward">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="RegulationReward_Reward" Member="Rewards" ThisKey="id" OtherKey="regulationRewardId" Type="Reward" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Reward" Member="Rewards">
+    <Type Name="Reward">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="mission" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="createDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="regulationRewardId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="RegulationReward_Reward" Member="RegulationReward" ThisKey="regulationRewardId" OtherKey="id" Type="RegulationReward" IsForeignKey="true" />
+      <Association Name="Staff_Reward" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Role" Member="Roles">
+    <Type Name="Role">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Role_Account" Member="Accounts" ThisKey="id" OtherKey="roleId" Type="Account" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Salary" Member="Salaries">
+    <Type Name="Salary">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="staffId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="basicSalary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="allowance" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="numberOfWorkDay" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="moneyReward" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="moneyPunish" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="createDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="departmentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="moneyInsurance" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="month" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="year" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Department_Salary" Member="Department" ThisKey="departmentId" OtherKey="id" Type="Department" IsForeignKey="true" />
+      <Association Name="Staff_Salary" Member="Staff" ThisKey="staffId" OtherKey="id" Type="Staff" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Staff" Member="Staffs">
+    <Type Name="Staff">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="dateOfBirth" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="dateOfWork" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="sex" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="identityCard" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="positionId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="contractId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="levelId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="departmentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="englishLevelId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="itLevelId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Staff_Account" Member="Accounts" ThisKey="id" OtherKey="staffId" Type="Account" />
+      <Association Name="Staff_Timekeeping" Member="Timekeepings" ThisKey="id" OtherKey="staffId" Type="Timekeeping" />
+      <Association Name="Staff_Insurance" Member="Insurances" ThisKey="id" OtherKey="staffId" Type="Insurance" />
+      <Association Name="Staff_Punish" Member="Punishes" ThisKey="id" OtherKey="staffId" Type="Punish" />
+      <Association Name="Staff_Reward" Member="Rewards" ThisKey="id" OtherKey="staffId" Type="Reward" />
+      <Association Name="Staff_Salary" Member="Salaries" ThisKey="id" OtherKey="staffId" Type="Salary" />
+      <Association Name="Contract_Staff" Member="Contract" ThisKey="contractId" OtherKey="id" Type="Contract" IsForeignKey="true" />
+      <Association Name="Department_Staff" Member="Department" ThisKey="departmentId" OtherKey="id" Type="Department" IsForeignKey="true" />
+      <Association Name="EnglishLevel_Staff" Member="EnglishLevel" ThisKey="englishLevelId" OtherKey="id" Type="EnglishLevel" IsForeignKey="true" />
+      <Association Name="ITLevel_Staff" Member="ITLevel" ThisKey="itLevelId" OtherKey="id" Type="ITLevel" IsForeignKey="true" />
+      <Association Name="Level_Staff" Member="Level" ThisKey="levelId" OtherKey="id" Type="Level" IsForeignKey="true" />
+      <Association Name="Position_Staff" Member="Position" ThisKey="positionId" OtherKey="id" Type="Position" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

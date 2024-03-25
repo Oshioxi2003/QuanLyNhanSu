@@ -1,0 +1,5 @@
+Yêu cầu phải cài đặt vs 2015 trở lên và devexpress
+Sau khi tải về các bạn:
+- Mở và chạy file data.sql
+- Mở và chạy file Do_An.sln. Sau khi mở lên các bạn chọn chuột phải vào DAO -> Properties -> chọn settings -> trong cột value chỗ Data Source các bạn đổi thành tên máy của mình.
+- Mình có để link hướng dẫn và cài đặt vs 19 + devexpress cho các bạn cài đặt
